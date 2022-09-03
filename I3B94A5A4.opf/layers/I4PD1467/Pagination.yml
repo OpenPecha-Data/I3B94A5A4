@@ -1,0 +1,316 @@
+id: b28a90a4e8fc48268a8f6e52bdfd7aa2
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  596b90615fbd418382bbd1d1977131b6:
+    span:
+      start: 0
+      end: 696
+    imgnum: 1
+    reference: I4PD14670001.tif
+  13ff3a6a51b546de9daabdeb8ade1c73:
+    span:
+      start: 697
+      end: 2185
+    imgnum: 3
+    reference: I4PD14670003.jpg
+  733a71db81d54cc2a24c0be2dc7b9ebe:
+    span:
+      start: 2186
+      end: 3675
+    imgnum: 4
+    reference: I4PD14670004.jpg
+  8734c418522747cea07ac6af5594d14c:
+    span:
+      start: 3676
+      end: 3750
+    imgnum: 5
+    reference: I4PD14670005.jpg
+  f4791da9f04549ed9ddf32a983534b8b:
+    span:
+      start: 3751
+      end: 3823
+    imgnum: 6
+    reference: I4PD14670006.jpg
+  9321deb8fd644c36ac9b28682ae3581e:
+    span:
+      start: 3824
+      end: 3929
+    imgnum: 7
+    reference: I4PD14670007.jpg
+  1033fa113e404f268bd5ff1fd112c070:
+    span:
+      start: 3930
+      end: 4026
+    imgnum: 8
+    reference: I4PD14670008.jpg
+  fe86e1807b7a48d7b2e8716a5ac50bf6:
+    span:
+      start: 4027
+      end: 4105
+    imgnum: 9
+    reference: I4PD14670009.jpg
+  06c2934eac4f43dca42605ad7415631d:
+    span:
+      start: 4106
+      end: 4183
+    imgnum: 10
+    reference: I4PD14670010.jpg
+  96c07b9b089e431fa92d6f3b965d96a1:
+    span:
+      start: 4184
+      end: 4255
+    imgnum: 11
+    reference: I4PD14670011.jpg
+  5136685bc8eb41eca1a0a948b4ed2620:
+    span:
+      start: 4256
+      end: 4365
+    imgnum: 12
+    reference: I4PD14670012.jpg
+  ff76b40acf7a483cbb2e2d944fe3e807:
+    span:
+      start: 4366
+      end: 4435
+    imgnum: 13
+    reference: I4PD14670013.jpg
+  3442f93c7bfe43a9a9ca3fa6af9b879d:
+    span:
+      start: 4436
+      end: 4505
+    imgnum: 14
+    reference: I4PD14670014.jpg
+  882c641b94334e6387e87cc289898cef:
+    span:
+      start: 4506
+      end: 4590
+    imgnum: 15
+    reference: I4PD14670015.jpg
+  f0bde2446d8e40e7a8d11f4dcdb7746d:
+    span:
+      start: 4591
+      end: 4660
+    imgnum: 16
+    reference: I4PD14670016.jpg
+  0a7cfa4f676b46e6bc0bc7c26b245c56:
+    span:
+      start: 4661
+      end: 4733
+    imgnum: 17
+    reference: I4PD14670017.jpg
+  a00f6603421b4135a6efe097b80e5539:
+    span:
+      start: 4734
+      end: 4797
+    imgnum: 18
+    reference: I4PD14670018.jpg
+  70e1a155d42e41d9bafe1dd2a265de2d:
+    span:
+      start: 4798
+      end: 4873
+    imgnum: 19
+    reference: I4PD14670019.jpg
+  b5d66a65500c4adfb33be2aee09248cb:
+    span:
+      start: 4874
+      end: 4949
+    imgnum: 20
+    reference: I4PD14670020.jpg
+  a73527df30634830a64682b67e37b1fc:
+    span:
+      start: 4950
+      end: 5063
+    imgnum: 21
+    reference: I4PD14670021.jpg
+  71cdfe14bc47442b970353720ff139af:
+    span:
+      start: 5064
+      end: 5137
+    imgnum: 22
+    reference: I4PD14670022.jpg
+  2e33132e6f9b4aa0948c264f955e9a85:
+    span:
+      start: 5138
+      end: 5200
+    imgnum: 23
+    reference: I4PD14670023.jpg
+  cb70f76bda5145a0b8dae3b8f26482cd:
+    span:
+      start: 5201
+      end: 5263
+    imgnum: 24
+    reference: I4PD14670024.jpg
+  b4d03017c1104992b9d5f74a540cf1a8:
+    span:
+      start: 5264
+      end: 5326
+    imgnum: 25
+    reference: I4PD14670025.jpg
+  2a35b72e88f94324b8720730baa79c7f:
+    span:
+      start: 5327
+      end: 5394
+    imgnum: 26
+    reference: I4PD14670026.jpg
+  b91226c841044bf587b19b8ae2a4f75a:
+    span:
+      start: 5395
+      end: 5461
+    imgnum: 27
+    reference: I4PD14670027.jpg
+  ffea7cc13f7c4b1ea25c244e490779fc:
+    span:
+      start: 5462
+      end: 5532
+    imgnum: 28
+    reference: I4PD14670028.jpg
+  d274b0d78fca4552865b7b3e81bbee73:
+    span:
+      start: 5533
+      end: 5593
+    imgnum: 29
+    reference: I4PD14670029.jpg
+  f0d05347203c4ea48b306576440c12fd:
+    span:
+      start: 5594
+      end: 5659
+    imgnum: 30
+    reference: I4PD14670030.jpg
+  38a7b43bb7cd4a6baa0e6c8c60484556:
+    span:
+      start: 5660
+      end: 5728
+    imgnum: 31
+    reference: I4PD14670031.jpg
+  353669a917ec423c9c5df1fda161f5b5:
+    span:
+      start: 5729
+      end: 5787
+    imgnum: 32
+    reference: I4PD14670032.jpg
+  8d6b1a24d01c418dbe58d766c03bfb0e:
+    span:
+      start: 5788
+      end: 5860
+    imgnum: 33
+    reference: I4PD14670033.jpg
+  e800fccb042249f0b05ec83e6e5a3e4f:
+    span:
+      start: 5861
+      end: 5920
+    imgnum: 34
+    reference: I4PD14670034.jpg
+  103d3035784042a5acfd656439508927:
+    span:
+      start: 5921
+      end: 5976
+    imgnum: 35
+    reference: I4PD14670035.jpg
+  1715dc09ba394a59ad9c073596e8244a:
+    span:
+      start: 5977
+      end: 6027
+    imgnum: 36
+    reference: I4PD14670036.jpg
+  24f879eac4a74638919901b4839445ef:
+    span:
+      start: 6028
+      end: 6097
+    imgnum: 37
+    reference: I4PD14670037.jpg
+  2af702205b3049e988d45b8904cc94a7:
+    span:
+      start: 6098
+      end: 6162
+    imgnum: 38
+    reference: I4PD14670038.jpg
+  6c79367bad574ecfa3fdadc41544921c:
+    span:
+      start: 6163
+      end: 6224
+    imgnum: 39
+    reference: I4PD14670039.jpg
+  29ec5dcff39046eea2b35f3e4d317c35:
+    span:
+      start: 6225
+      end: 6288
+    imgnum: 40
+    reference: I4PD14670040.jpg
+  b085b94c75af49e3b1cfb16ed21698e2:
+    span:
+      start: 6289
+      end: 6371
+    imgnum: 41
+    reference: I4PD14670041.jpg
+  33d2fd6c352c426db31c4d25e4716b16:
+    span:
+      start: 6372
+      end: 6434
+    imgnum: 42
+    reference: I4PD14670042.jpg
+  9c72301a484d480190668ee76ff5c5ad:
+    span:
+      start: 6435
+      end: 6496
+    imgnum: 43
+    reference: I4PD14670043.jpg
+  2b36a6a6cb77444d8280666d81f90bef:
+    span:
+      start: 6497
+      end: 6559
+    imgnum: 44
+    reference: I4PD14670044.jpg
+  ebe10ae561eb4d039025977846a58a85:
+    span:
+      start: 6560
+      end: 6615
+    imgnum: 45
+    reference: I4PD14670045.jpg
+  2070b55582904ea68ba271edc6c1d91a:
+    span:
+      start: 6616
+      end: 6672
+    imgnum: 46
+    reference: I4PD14670046.jpg
+  8d00d0caa5c246f99d51dfa742bb8765:
+    span:
+      start: 6673
+      end: 6764
+    imgnum: 47
+    reference: I4PD14670047.jpg
+  9486e75cb67843029b6875b50b834014:
+    span:
+      start: 6765
+      end: 6835
+    imgnum: 48
+    reference: I4PD14670048.jpg
+  1eea9ecdcadb4fa4afba0e12b4bd98a0:
+    span:
+      start: 6836
+      end: 6890
+    imgnum: 49
+    reference: I4PD14670049.jpg
+  e775e1266376458cb60c2dd77451ceff:
+    span:
+      start: 6891
+      end: 6945
+    imgnum: 50
+    reference: I4PD14670050.jpg
+  67f50c1335a14dbdb2ade5cae05e55eb:
+    span:
+      start: 6946
+      end: 7028
+    imgnum: 51
+    reference: I4PD14670051.jpg
+  039bec3ab462449db17d92dcc1609433:
+    span:
+      start: 7029
+      end: 7836
+    imgnum: 52
+    reference: I4PD14670052.jpg
+  6294514f6b4f4ee3abd3045468c432ec:
+    span:
+      start: 7837
+      end: 8324
+    imgnum: 53
+    reference: I4PD14670053.jpg
